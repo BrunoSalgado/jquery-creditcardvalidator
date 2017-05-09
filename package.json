@@ -1,6 +1,6 @@
 {
   "name": "rc-jquery-creditcardvalidator",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "jQuery Credit Card Validator detects and validates credit card numbers. It’ll tell you the detected credit card type and whether the number length and Luhn checksum are valid for the type of card.",
   "main": "jquery.creditCardValidator.js",
   "directories": {
