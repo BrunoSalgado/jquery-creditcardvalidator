@@ -128,12 +128,8 @@
         range: '636368,636369,438935,504175,451416,636297,5067,4576,4011,506699',
         valid_length: [16]
       }, {
-        name: 'diners_club_carte_blanche',
-        range: '300-305',
-        valid_length: [14]
-      }, {
-        name: 'diners_club_international',
-        range: '36',
+        name: 'diners',
+        range: '36,300-305',
         valid_length: [14]
       }, {
         name: 'jcb',
